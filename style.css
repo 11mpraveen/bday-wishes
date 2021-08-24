@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: orange;
+    background-image: url(hOye.gif);
+    background-size: cover;
+
+}
+#mycanvas{
+    border-width: 30px;
+    background-color: white;
+    border-style: ridge;
+    border-color: lightsalmon;
+}
